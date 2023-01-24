@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Arvo-Bold.ttf",
+      "sha1": "0f5c7895d87238a42e7e1e15396bb46591063a65"
+    },
+    {
+      "path": "src/assets/fonts/Arvo-Regular.ttf",
+      "sha1": "3857248afcedf01b6e9dc0048f4ca662bc328493"
+    }
+  ]
+}
